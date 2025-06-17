@@ -7,7 +7,12 @@ Interactive Power BI dashboard to visualize sales KPIs, trends, profit maps, and
 
 This project presents an interactive and insightful Sales Dashboard built using Microsoft Power BI. It is designed to track and analyze key performance indicators (KPIs) such asProfit, Orders, and Customer Count, with detailed drill-downs by State, Segment, and Category.
 
+# DataSet Used
+https://github.com/UroojChaudhary/Sales-Analysis-Dashboard-Power-Bi-/blob/main/Sample%20-%20Superstore.xlsx
 
+
+# File Screenshot
+https://github.com/UroojChaudhary/Sales-Analysis-Dashboard-Power-Bi-/blob/main/Sales%20Analysis%20Dashboard.png
 
 ## 🚀 Dashboard Highlights
 
